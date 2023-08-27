@@ -7,10 +7,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steixeira93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Atualmente mais focado em!
+- Atualmente mais focado em!
 
-<div style="display: inline_block"><br/> 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<div style="display: inline-block">
+  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+    
+  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+    
+  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+    
+  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
