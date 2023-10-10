@@ -10,6 +10,9 @@
 - Atualmente mais focado em:
 
 <div style="display: inline-block">
+
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
   <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
     
   <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
