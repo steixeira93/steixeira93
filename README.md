@@ -1,12 +1,19 @@
 <h1 align="center">Samuel Teixeira</h1>
 
 <p align="center">
-  Desenvolvedor full-stack &middot; do front-end à infraestrutura
+  <b>Head of Technology @ Buildbox</b>
+</p>
+
+<p align="center">
+  Liderança servidora &middot; IA aplicada &middot; Arquitetura em escala
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuelteixeira1337/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samuel@buildbox.com.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/samuelteixeira">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -17,28 +24,40 @@
 
 ## Sobre
 
-Desenvolvo aplicações web completas, com atenção a performance, código limpo e boas práticas. Atualmente venho me aprofundando em arquitetura de back-end com Go e em ambientes containerizados.
+Lidero a tecnologia na **Buildbox**, onde construímos produtos digitais para algumas das maiores empresas do Brasil — entre elas Grupo Petrópolis, Informa Markets, Cury Construtora, PremierPet e Instituto Itaqui.
 
-- 🔭 Trabalhando com **React**, **TypeScript**, **Node.js** e **Go**
-- 🌱 Aprofundando em **Go** e **Docker**
-- 💬 Vamos conversar sobre desenvolvimento web, back-end e DevOps
-- 📫 Contato pelo [LinkedIn](https://www.linkedin.com/in/samuelteixeira1337/)
+São **11 anos de engenharia de software**, os últimos à frente de times. Comecei como engenheiro, evoluí como Sênior em produtos de alto volume — incluindo o **Sem Parar**, que atende cerca de 7 milhões de clientes no ecossistema de mobilidade — e cheguei a Head of Technology defendendo uma tese simples: grandes produtos nascem de grandes times, e grandes times nascem de líderes que servem, não que controlam.
+
+Hoje meu trabalho se divide em três frentes:
+
+- **Desenvolvimento de líderes** — formo Engineering Managers, Tech Leads e especialistas com IDPs estruturados, KPIs claros e feedback contínuo. Atualmente lidero cerca de 46 pessoas entre reportes diretos e indiretos.
+- **IA aplicada à engenharia** — não como buzzword. Implementei ferramentas de IA ao longo de todo o pipeline de desenvolvimento da Buildbox.
+- **Saúde dos projetos** — respondo por custos, margens, qualidade técnica e satisfação dos clientes.
+
+🎓 Formado em Engenharia de Software pela **FIAP**.
 
 ## Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=go,ts,js,cs,php" alt="Go, TypeScript, JavaScript, C#, PHP" />
+
+**Back-end**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs" alt="Node.js, NestJS" />
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" alt="React, Next.js" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" alt="AWS, Docker, Kubernetes" />
 
 ## GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=steixeira93&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steixeira93&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=steixeira93&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
