@@ -1,26 +1,21 @@
-```go
-package main
+<div align="center">
 
-// samuel teixeira · head of technology @ buildbox
-// 11 years in · leads 46 by serving them · ships for ~7M
+<h3>Samuel Teixeira</h3>
 
-type Human struct{ since int }
+Head of Technology · Buildbox
 
-func (h Human) learn() Human {
-	return h // a slightly better version of itself
-}
+<br>
 
-func main() {
-	me := Human{since: 2014}
+<em>The hardest distributed system I run is the org.</em>
 
-	for {
-		me = me.learn() // when this loop exits, so do i
-	}
-}
-```
+<br><br>
 
-<sub><i>// you're only seeing what renders</i></sub>
+<img src="https://github-readme-stats.vercel.app/api?username=steixeira93&hide=stars,issues&hide_title=true&hide_rank=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=00000000&title_color=808080&text_color=808080&icon_color=808080" alt="commits, pull requests and contributions" />
 
-<sub>[linkedin](https://www.linkedin.com/in/samuelteixeira1337/)</sub>
+<br><br>
+
+<sub><a href="https://www.linkedin.com/in/samuelteixeira1337/">linkedin</a></sub>
+
+</div>
 
 <!-- eW91IHJlYWQgdGhlIHNvdXJjZS4gdGhhdCdzIHRoZSBjdXJpb3NpdHkgaSBsb29rIGZvci4gLT4gc2FtdWVsQGJ1aWxkYm94LmNvbS5icg== -->
